@@ -1,5 +1,5 @@
 {
-  "version": "2025.10.28-4",
+  "version": "2025.10.28-5",
   "bin": "https://raw.githubusercontent.com/swedenfox/BABY_TRACKER/main/babytracker-esp32.bin",
-  "notes": "notifica aggiornamento 2"
+  "notes": "Correzione ORA ERRATA"
 }
