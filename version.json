@@ -1,0 +1,5 @@
+{
+  "version": "2025.10.28-1",
+  "bin": "https://raw.githubusercontent.com/swedenfox/SleepTracker/main/firmware/babytracker-esp32.bin",
+  "notes": "Bugfix overlay sleep/awake"
+}
