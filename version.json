@@ -1,5 +1,5 @@
 {
-  "version": "2025.10.28-2",
+  "version": "2025.10.28-3",
   "bin": "https://raw.githubusercontent.com/swedenfox/BABY_TRACKER/main/babytracker-esp32.bin",
-  "notes": "Test OTA con notifica Telegram + Last Feeding Calculator"
+  "notes": "notifica aggiornamento"
 }
